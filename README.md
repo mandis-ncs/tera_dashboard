@@ -28,7 +28,7 @@
 </p>
 
 ### Publicação de Artigo
-Essa iniciativa foi publicada com sucesso na FECIVALE 2023 - Registro/SP (Instituto Federal - IF). [em breve atualizações]
+Essa iniciativa foi publicada com sucesso na FECIVALE 2023 - SP (Instituto Federal - IF). [em breve atualizações]
 
 ## Como rodar este projeto?
 
